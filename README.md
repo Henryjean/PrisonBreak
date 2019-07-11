@@ -1,4 +1,4 @@
-![](PrisonEscape.png)
+![](PrisonEscapes.png)
 
 R code for charting escapes from stat prisons.
 
