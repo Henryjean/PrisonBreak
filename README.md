@@ -1,6 +1,6 @@
 ![](PrisonEscapes.png)
 
-R code for charting escapes from stat prisons.
+R code for charting escapes from state prisons.
 
 ## Author
 Owen Phillips ([@llewellyn_jean](https://instagram.com/llewellyn_jean/))
